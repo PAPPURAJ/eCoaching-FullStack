@@ -14,6 +14,7 @@ import java.util.Optional;
 
 import java.util.List;
 @RestController
+@CrossOrigin()
 public class StudentRESTController {
 
 
